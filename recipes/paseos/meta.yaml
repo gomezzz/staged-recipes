@@ -48,7 +48,6 @@ test:
 about:
   home: https://github.com/aidotse/paseos
   summary: A package which simulates the space environment for operating multiple spacecraft.
-  dev_url: https://github.com/aidotse/paseos/
   license: GPL-3.0-only
   license_family: GPL3
   license_file: LICENSE
